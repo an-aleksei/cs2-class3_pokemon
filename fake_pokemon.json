@@ -45,6 +45,16 @@
         "Teleportation",
         "Interdimensional travel"
       ]
+    },
+    {
+      "name": "bananaturtle",
+      "number": "005",
+      "type": "very powerful",
+      "powers": [
+        "flying",
+        "eating bananas syper fast",
+        "collecting bananas from trees"
+      ]
     }
   ]
 }
